@@ -4,12 +4,10 @@
 # 02220094
 ################################
 # REFERENCES
-# Links that you referred while solving
-# the problem
-# http://link.to.an.article/video.com
+# https://youtu.be/55tcf9AA9hQ?feature=shared
 ################################
 # SOLUTION
-# Your Solution Score:
+# Your Solution Score:49524
 # Put your number here: 4
 ################################
 # Read the input.txt file
